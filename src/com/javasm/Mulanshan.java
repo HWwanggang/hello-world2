@@ -5,6 +5,7 @@ public class Mulanshan {
         System.out.print("你好,木兰山");
         System.out.print("hello,git");
         int a;
+        String name="daisy";
 
     }
 }
